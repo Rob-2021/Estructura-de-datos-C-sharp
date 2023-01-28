@@ -1,0 +1,32 @@
+class TrianguloCal{
+    //ATRIBUTOS
+   /* private float a;
+    private float b;
+    private float c;
+    
+    public Triangulo(float a, float b, float c){
+        this.a = a;
+        this.b = b;
+        this.c =c;
+    }*/
+    
+    //FUNCIONES 
+    //CALCULO DEL AREA
+    //CALCULO DEL PERIMETRO
+    
+    public void calcular(float a, float b){
+        float area= a*b/2;
+        System.out.println("EL area del triangulo es :"+area);
+    }
+    
+    public void calcular(float a, float b, float c){
+        float per=a+b+c;
+        System.out.println("EL perrimetro del triangulo es: "+per);
+    }
+    
+    public static void main(String[] args){
+        TrianguloCal tri1 = new TrianguloCal();
+        tri1.calcular(4,5);
+        tri1.calcular(4,5,6);
+}
+}

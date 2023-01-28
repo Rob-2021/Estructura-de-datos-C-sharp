@@ -1,0 +1,43 @@
+class Persona{
+    //ATRIIBUTOS
+    private String nombres;
+    private String apellidos;
+    private String ci;
+    
+    public Persona(String nombres, String apellidos, String ci){
+        this.nombres = nombres;
+        this.apellidos = apellidos;
+        this.ci = ci;
+    }
+    
+    public void setNombre(String nombres){
+        this.nombres = nombres;
+    }
+    
+    public String getNombre(){
+        return nombres;
+    }
+    
+    public void setApellidos(String apellidos){
+        this.apellidos = apellidos;
+    }
+    
+    public String getApellidos(){
+        return apellidos;
+    }
+    
+    public void setCi(String ci){
+        this.ci = ci;
+    }
+    
+    public String getCi(){
+        return ci;
+    }
+    
+    public void imprimir(){
+        System.out.println("Nombre : "+nombres+"\n APellidos : "+apellidos+"\n Carnet de identidad: "+ci);
+    }
+    
+    
+    
+}

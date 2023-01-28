@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\bin\Debug\Pregunta_6_ColaYPila.exe.config
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\bin\Debug\Pregunta_6_ColaYPila.exe
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\bin\Debug\Pregunta_6_ColaYPila.pdb
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\obj\Debug\Pregunta_6_ColaYPila.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\obj\Debug\Pregunta_6_ColaYPila.Form1.resources
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\obj\Debug\Pregunta_6_ColaYPila.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\obj\Debug\Pregunta_6_ColaYPila.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\obj\Debug\Pregunta_6_ColaYPila.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\obj\Debug\Pregunta_6_ColaYPila.exe
+E:\Trabajos\SIS-204 2-2020\Pregunta_6_ColaYPila\Pregunta_6_ColaYPila\obj\Debug\Pregunta_6_ColaYPila.pdb

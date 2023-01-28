@@ -1,0 +1,20 @@
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\bin\Debug\Examen_Final.exe.config
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\bin\Debug\Examen_Final.exe
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\bin\Debug\Examen_Final.pdb
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\obj\Debug\Examen_Final.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\obj\Debug\Examen_Final.Form1.resources
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\obj\Debug\Examen_Final.Properties.Resources.resources
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\obj\Debug\Examen_Final.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\obj\Debug\Examen_Final.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\obj\Debug\Examen_Final.exe
+E:\Trabajos\SIS-204\Examen_Final\Examen_Final\obj\Debug\Examen_Final.pdb
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\bin\Debug\Examen_Final.exe.config
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\bin\Debug\Examen_Final.exe
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\bin\Debug\Examen_Final.pdb
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\obj\Debug\Examen_Final.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\obj\Debug\Examen_Final.Form1.resources
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\obj\Debug\Examen_Final.Properties.Resources.resources
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\obj\Debug\Examen_Final.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\obj\Debug\Examen_Final.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\obj\Debug\Examen_Final.exe
+E:\Trabajos\SIS-204\Roberts Amachuy Rodriguez examenFinal\Examen_Final\Examen_Final\obj\Debug\Examen_Final.pdb

@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204\Decolas\Decolas\bin\Debug\Decolas.exe.config
+E:\Trabajos\SIS-204\Decolas\Decolas\bin\Debug\Decolas.exe
+E:\Trabajos\SIS-204\Decolas\Decolas\bin\Debug\Decolas.pdb
+E:\Trabajos\SIS-204\Decolas\Decolas\obj\Debug\Decolas.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\Decolas\Decolas\obj\Debug\Decolas.Form1.resources
+E:\Trabajos\SIS-204\Decolas\Decolas\obj\Debug\Decolas.Properties.Resources.resources
+E:\Trabajos\SIS-204\Decolas\Decolas\obj\Debug\Decolas.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\Decolas\Decolas\obj\Debug\Decolas.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\Decolas\Decolas\obj\Debug\Decolas.exe
+E:\Trabajos\SIS-204\Decolas\Decolas\obj\Debug\Decolas.pdb

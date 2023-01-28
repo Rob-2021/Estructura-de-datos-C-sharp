@@ -1,0 +1,16 @@
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\bin\Debug\ListaCircular.exe.config
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\bin\Debug\ListaCircular.exe
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\bin\Debug\ListaCircular.pdb
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\obj\Debug\ListaCircular.csprojResolveAssemblyReference.cache
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\obj\Debug\ListaCircular.Form1.resources
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\obj\Debug\ListaCircular.Properties.Resources.resources
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\obj\Debug\ListaCircular.csproj.GenerateResource.Cache
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\obj\Debug\ListaCircular.exe
+C:\Users\MUNDO_PC\Desktop\Aprender a programar\ListaCircular\ListaCircular\obj\Debug\ListaCircular.pdb
+E:\Trabajos\SIS-204 2-2020\tarea 18-01-21\ListaCircular\ListaCircular\obj\Debug\ListaCircular.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\tarea 18-01-21\ListaCircular\ListaCircular\obj\Debug\ListaCircular.Form1.resources
+E:\Trabajos\SIS-204 2-2020\tarea 18-01-21\ListaCircular\ListaCircular\obj\Debug\ListaCircular.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\tarea 18-01-21\ListaCircular\ListaCircular\obj\Debug\ListaCircular.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\tarea 18-01-21\ListaCircular\ListaCircular\obj\Debug\ListaCircular.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\tarea 18-01-21\ListaCircular\ListaCircular\obj\Debug\ListaCircular.exe
+E:\Trabajos\SIS-204 2-2020\tarea 18-01-21\ListaCircular\ListaCircular\obj\Debug\ListaCircular.pdb

@@ -1,0 +1,19 @@
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\bin\Debug\LSO.exe.config
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\obj\Debug\LSO.csprojResolveAssemblyReference.cache
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\obj\Debug\LSO.Form1.resources
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\obj\Debug\LSO.Properties.Resources.resources
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\obj\Debug\LSO.csproj.GenerateResource.Cache
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\bin\Debug\LSO.exe
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\bin\Debug\LSO.pdb
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\obj\Debug\LSO.exe
+c:\users\fx\documents\visual studio 2015\Projects\LSO\LSO\obj\Debug\LSO.pdb
+C:\Users\Usuario\Desktop\LSO\LSO\bin\Debug\LSO.exe.config
+C:\Users\Usuario\Desktop\LSO\LSO\bin\Debug\LSO.exe
+C:\Users\Usuario\Desktop\LSO\LSO\bin\Debug\LSO.pdb
+C:\Users\Usuario\Desktop\LSO\LSO\obj\Debug\LSO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\LSO\LSO\obj\Debug\LSO.Form1.resources
+C:\Users\Usuario\Desktop\LSO\LSO\obj\Debug\LSO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\LSO\LSO\obj\Debug\LSO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\LSO\LSO\obj\Debug\LSO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\LSO\LSO\obj\Debug\LSO.exe
+C:\Users\Usuario\Desktop\LSO\LSO\obj\Debug\LSO.pdb

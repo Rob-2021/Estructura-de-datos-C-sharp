@@ -1,0 +1,19 @@
+class menu{
+public static void main(String[] args){
+        System.out.println("Datos persona");
+        Persona p1 = new Persona("Juana","Perez","12354");
+        p1.imprimir();
+        
+        System.out.println("\n \n Datos cliente");
+        Cliente cli1 = new Cliente("juana","perez","12345");
+        cli1.setCategoria("VIP");
+        
+        cli1.imprimirCliente();
+        System.out.println("\n \n Datos cliente");
+        
+        Empleado emp = new Empleado("Hugo", "Garcia","456123");
+        emp.setTipoContrato("ITEM");
+        emp.setSueldo(3005);
+        emp.imprimirEmpleado();
+    }
+}

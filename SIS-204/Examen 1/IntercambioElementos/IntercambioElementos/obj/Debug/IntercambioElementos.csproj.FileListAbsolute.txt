@@ -1,0 +1,20 @@
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\bin\Debug\IntercambioElementos.exe.config
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\bin\Debug\IntercambioElementos.exe
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\bin\Debug\IntercambioElementos.pdb
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.exe
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.pdb
+C:\Users\Usuario\source\repos\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.Form1.resources
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\bin\Debug\IntercambioElementos.exe.config
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\bin\Debug\IntercambioElementos.exe
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\bin\Debug\IntercambioElementos.pdb
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.Form1.resources
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.Properties.Resources.resources
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.exe
+E:\Trabajos\SIS-204\Examen 1\IntercambioElementos\IntercambioElementos\obj\Debug\IntercambioElementos.pdb

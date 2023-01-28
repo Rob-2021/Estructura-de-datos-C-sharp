@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\bin\Debug\Multilistas.exe.config
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\bin\Debug\Multilistas.exe
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\bin\Debug\Multilistas.pdb
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\obj\Debug\Multilistas.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\obj\Debug\Multilistas.Form1.resources
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\obj\Debug\Multilistas.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\obj\Debug\Multilistas.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\obj\Debug\Multilistas.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\obj\Debug\Multilistas.exe
+E:\Trabajos\SIS-204 2-2020\Multilistas\Multilistas\obj\Debug\Multilistas.pdb

@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\bin\Debug\ColaCircular.exe.config
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\bin\Debug\ColaCircular.exe
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\bin\Debug\ColaCircular.pdb
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\obj\Debug\ColaCircular.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\obj\Debug\ColaCircular.Form1.resources
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\obj\Debug\ColaCircular.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\obj\Debug\ColaCircular.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\obj\Debug\ColaCircular.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\obj\Debug\ColaCircular.exe
+E:\Trabajos\SIS-204 2-2020\ColaCircular\ColaCircular\obj\Debug\ColaCircular.pdb

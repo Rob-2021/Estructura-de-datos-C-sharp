@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\bin\Debug\ListasEnlazadas.exe.config
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\bin\Debug\ListasEnlazadas.exe
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\bin\Debug\ListasEnlazadas.pdb
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.Form1.resources
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.Properties.Resources.resources
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.exe
+E:\Trabajos\SIS-204\ListasEnlazadas\ListasEnlazadas\obj\Debug\ListasEnlazadas.pdb

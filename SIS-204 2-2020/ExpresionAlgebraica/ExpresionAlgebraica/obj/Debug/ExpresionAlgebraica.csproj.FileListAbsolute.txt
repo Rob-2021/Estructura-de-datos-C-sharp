@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\bin\Debug\ExpresionAlgebraica.exe.config
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\bin\Debug\ExpresionAlgebraica.exe
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\bin\Debug\ExpresionAlgebraica.pdb
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\obj\Debug\ExpresionAlgebraica.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\obj\Debug\ExpresionAlgebraica.Form1.resources
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\obj\Debug\ExpresionAlgebraica.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\obj\Debug\ExpresionAlgebraica.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\obj\Debug\ExpresionAlgebraica.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\obj\Debug\ExpresionAlgebraica.exe
+E:\Trabajos\SIS-204 2-2020\ExpresionAlgebraica\ExpresionAlgebraica\obj\Debug\ExpresionAlgebraica.pdb

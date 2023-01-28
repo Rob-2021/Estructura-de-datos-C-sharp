@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204\pilas\pilas\bin\Debug\pilas.exe.config
+E:\Trabajos\SIS-204\pilas\pilas\bin\Debug\pilas.exe
+E:\Trabajos\SIS-204\pilas\pilas\bin\Debug\pilas.pdb
+E:\Trabajos\SIS-204\pilas\pilas\obj\Debug\pilas.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\pilas\pilas\obj\Debug\pilas.Form1.resources
+E:\Trabajos\SIS-204\pilas\pilas\obj\Debug\pilas.Properties.Resources.resources
+E:\Trabajos\SIS-204\pilas\pilas\obj\Debug\pilas.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\pilas\pilas\obj\Debug\pilas.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\pilas\pilas\obj\Debug\pilas.exe
+E:\Trabajos\SIS-204\pilas\pilas\obj\Debug\pilas.pdb

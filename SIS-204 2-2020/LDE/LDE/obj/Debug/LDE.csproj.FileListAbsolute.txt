@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\bin\Debug\LDE.exe.config
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\bin\Debug\LDE.exe
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\bin\Debug\LDE.pdb
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\obj\Debug\LDE.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\obj\Debug\LDE.Form1.resources
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\obj\Debug\LDE.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\obj\Debug\LDE.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\obj\Debug\LDE.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\obj\Debug\LDE.exe
+E:\Trabajos\SIS-204 2-2020\LDE\LDE\obj\Debug\LDE.pdb

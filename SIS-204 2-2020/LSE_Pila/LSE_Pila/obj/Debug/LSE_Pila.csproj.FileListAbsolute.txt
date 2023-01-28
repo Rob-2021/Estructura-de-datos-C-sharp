@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\bin\Debug\LSE_Pila.exe.config
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\bin\Debug\LSE_Pila.exe
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\bin\Debug\LSE_Pila.pdb
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\obj\Debug\LSE_Pila.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\obj\Debug\LSE_Pila.Form1.resources
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\obj\Debug\LSE_Pila.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\obj\Debug\LSE_Pila.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\obj\Debug\LSE_Pila.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\obj\Debug\LSE_Pila.exe
+E:\Trabajos\SIS-204 2-2020\LSE_Pila\LSE_Pila\obj\Debug\LSE_Pila.pdb

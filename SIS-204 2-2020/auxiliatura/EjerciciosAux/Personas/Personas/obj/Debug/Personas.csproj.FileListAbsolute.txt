@@ -1,0 +1,18 @@
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\bin\Debug\Personas.exe.config
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\bin\Debug\Personas.exe
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\bin\Debug\Personas.pdb
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\obj\Debug\Personas.Form1.resources
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\obj\Debug\Personas.Properties.Resources.resources
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\obj\Debug\Personas.csproj.GenerateResource.Cache
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\obj\Debug\Personas.exe
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Personas\Personas\obj\Debug\Personas.pdb
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\bin\Debug\Personas.exe.config
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\bin\Debug\Personas.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\bin\Debug\Personas.pdb
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\obj\Debug\Personas.Form1.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\obj\Debug\Personas.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\obj\Debug\Personas.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\obj\Debug\Personas.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\obj\Debug\Personas.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Personas\Personas\obj\Debug\Personas.pdb

@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\bin\Debug\Pilas_1.exe.config
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\bin\Debug\Pilas_1.exe
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\bin\Debug\Pilas_1.pdb
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\obj\Debug\Pilas_1.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\obj\Debug\Pilas_1.Form1.resources
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\obj\Debug\Pilas_1.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\obj\Debug\Pilas_1.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\obj\Debug\Pilas_1.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\obj\Debug\Pilas_1.exe
+E:\Trabajos\SIS-204 2-2020\Pilas_1\Pilas_1\obj\Debug\Pilas_1.pdb

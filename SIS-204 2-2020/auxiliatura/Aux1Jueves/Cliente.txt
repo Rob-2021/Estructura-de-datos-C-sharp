@@ -1,0 +1,32 @@
+Class Cliente Extends Persona{
+    Private String Categoria;
+    Private String Codigo;
+    
+//    TODO Codigo C#//Public Cliente(String Nombres, String Apellidos, String Ci):base(Nombres, Apellidos,Ci){}
+    Public Cliente(String Nombres, String Apellidos, String Ci){
+        Super(Nombres,Apellidos,Ci); 
+        This.Categoria="Ninguno";
+    }
+    
+    Public Void Setcategoria(String Categoria){
+        This.Categoria = Categoria;
+    }
+    
+    Public String Getcategoria(){
+        Return Categoria;
+    }
+    
+    Public String Getcodigo(){
+//        C-Perez01
+        Return Generarcodigo();
+    }
+    
+    Public String Generarcodigo(){
+        Return "C-"+Getapellidos()+"01";
+    }
+    
+    Public Void Imprimircliente(){
+        System.Out.Println("Nombre : "+Getnombre()+"\N Apellidos : "+Getapellidos()+"\N Carnet De Identidad: "+Getci()+"\N Categoria: "+Categoria+"\N Codigo: "+Getcodigo());
+    }
+      
+}

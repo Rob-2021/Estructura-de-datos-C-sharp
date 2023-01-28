@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\bin\Debug\Expresiones_Algebraicas.exe.config
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\bin\Debug\Expresiones_Algebraicas.exe
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\bin\Debug\Expresiones_Algebraicas.pdb
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\obj\Debug\Expresiones_Algebraicas.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\obj\Debug\Expresiones_Algebraicas.Form1.resources
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\obj\Debug\Expresiones_Algebraicas.Properties.Resources.resources
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\obj\Debug\Expresiones_Algebraicas.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\obj\Debug\Expresiones_Algebraicas.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\obj\Debug\Expresiones_Algebraicas.exe
+E:\Trabajos\SIS-204\Expresiones_Algebraicas\Expresiones_Algebraicas\obj\Debug\Expresiones_Algebraicas.pdb

@@ -1,0 +1,20 @@
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\bin\Debug\LDECircular.exe.config
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\bin\Debug\LDECircular.exe
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\bin\Debug\LDECircular.pdb
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\obj\Debug\LDECircular.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\obj\Debug\LDECircular.Form1.resources
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\obj\Debug\LDECircular.Properties.Resources.resources
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\obj\Debug\LDECircular.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\obj\Debug\LDECircular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\obj\Debug\LDECircular.exe
+C:\Users\Usuario\source\repos\LDECircular\LDECircular\obj\Debug\LDECircular.pdb
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\bin\Debug\LDECircular.exe.config
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\bin\Debug\LDECircular.exe
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\bin\Debug\LDECircular.pdb
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\obj\Debug\LDECircular.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\obj\Debug\LDECircular.Form1.resources
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\obj\Debug\LDECircular.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\obj\Debug\LDECircular.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\obj\Debug\LDECircular.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\obj\Debug\LDECircular.exe
+E:\Trabajos\SIS-204 2-2020\LDECircular\LDECircular\obj\Debug\LDECircular.pdb

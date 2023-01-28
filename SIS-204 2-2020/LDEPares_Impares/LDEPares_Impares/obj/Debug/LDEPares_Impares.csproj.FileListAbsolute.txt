@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\bin\Debug\LDEPares_Impares.exe.config
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\bin\Debug\LDEPares_Impares.exe
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\bin\Debug\LDEPares_Impares.pdb
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\obj\Debug\LDEPares_Impares.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\obj\Debug\LDEPares_Impares.Form1.resources
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\obj\Debug\LDEPares_Impares.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\obj\Debug\LDEPares_Impares.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\obj\Debug\LDEPares_Impares.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\obj\Debug\LDEPares_Impares.exe
+E:\Trabajos\SIS-204 2-2020\LDEPares_Impares\LDEPares_Impares\obj\Debug\LDEPares_Impares.pdb

@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\bin\Debug\Pregunta_6.exe.config
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\bin\Debug\Pregunta_6.exe
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\bin\Debug\Pregunta_6.pdb
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\obj\Debug\Pregunta_6.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\obj\Debug\Pregunta_6.Form1.resources
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\obj\Debug\Pregunta_6.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\obj\Debug\Pregunta_6.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\obj\Debug\Pregunta_6.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\obj\Debug\Pregunta_6.exe
+E:\Trabajos\SIS-204 2-2020\Pregunta_6\Pregunta_6\obj\Debug\Pregunta_6.pdb

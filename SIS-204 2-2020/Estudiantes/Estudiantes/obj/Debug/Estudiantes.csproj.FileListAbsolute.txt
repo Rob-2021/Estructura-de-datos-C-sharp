@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+E:\Trabajos\SIS-204 2-2020\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb

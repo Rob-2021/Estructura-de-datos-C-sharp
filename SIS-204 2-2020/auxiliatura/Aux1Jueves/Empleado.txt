@@ -1,0 +1,32 @@
+class Empleado extends Persona{
+    private String tipoContrato;
+    private float sueldo;
+    
+//    TODO CODIGO C#//public Cliente(String nombres, String apellidos, String ci):base(nombres, apellidos,ci){}
+    public Empleado(String nombres, String apellidos, String ci){
+        super(nombres,apellidos,ci); 
+        this.tipoContrato="Ninguno";
+        this.sueldo = 0;
+    }
+    
+    public void setTipoContrato(String tipoContrato){
+        this.tipoContrato = tipoContrato;
+    }
+    
+    public String getTipoContrato(){
+        return tipoContrato;
+    }
+    
+    public void setSueldo(float sueldo){
+        this.sueldo = sueldo;
+    }
+    
+    public float getSueldo(){
+        return sueldo;
+    }
+    
+    public void imprimirEmpleado(){
+        System.out.println("Nombre : "+getNombre()+"\n APellidos : "+getApellidos()+"\n Carnet de identidad: "+getCi()+"\n Tipo de COntrato: "+tipoContrato+"\n Sueldo: "+sueldo);
+    }
+      
+}

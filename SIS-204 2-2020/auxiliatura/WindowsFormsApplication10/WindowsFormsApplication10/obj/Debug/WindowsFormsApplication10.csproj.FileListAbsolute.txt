@@ -1,0 +1,19 @@
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\HeidyWin\Desktop\AuxEstructura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb

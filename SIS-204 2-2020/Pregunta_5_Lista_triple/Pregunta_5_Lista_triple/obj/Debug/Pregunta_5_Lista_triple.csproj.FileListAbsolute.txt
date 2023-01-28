@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\bin\Debug\Pregunta_5_Lista_triple.exe.config
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\bin\Debug\Pregunta_5_Lista_triple.exe
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\bin\Debug\Pregunta_5_Lista_triple.pdb
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\obj\Debug\Pregunta_5_Lista_triple.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\obj\Debug\Pregunta_5_Lista_triple.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\obj\Debug\Pregunta_5_Lista_triple.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\obj\Debug\Pregunta_5_Lista_triple.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\obj\Debug\Pregunta_5_Lista_triple.exe
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\obj\Debug\Pregunta_5_Lista_triple.pdb
+E:\Trabajos\SIS-204 2-2020\Pregunta_5_Lista_triple\Pregunta_5_Lista_triple\obj\Debug\Pregunta_5_Lista_triple.btnConcatenar.resources

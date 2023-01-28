@@ -1,0 +1,20 @@
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe.config
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.pdb
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.Form1.resources
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.exe
+E:\Trabajos\SIS-204\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.pdb
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe.config
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.pdb
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.Form1.resources
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.exe
+E:\Trabajos\SIS-204\examen 2\Roberts Amachuy Rodriguez 111-1\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.pdb

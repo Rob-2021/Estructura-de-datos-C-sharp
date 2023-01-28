@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\bin\Debug\Colas.exe.config
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\bin\Debug\Colas.exe
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\bin\Debug\Colas.pdb
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\obj\Debug\Colas.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\obj\Debug\Colas.Form1.resources
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\obj\Debug\Colas.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\obj\Debug\Colas.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\obj\Debug\Colas.exe
+E:\Trabajos\SIS-204 2-2020\Colas\Colas\obj\Debug\Colas.pdb

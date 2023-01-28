@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\bin\Debug\LDEconCabeza.exe.config
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\bin\Debug\LDEconCabeza.exe
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\bin\Debug\LDEconCabeza.pdb
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\obj\Debug\LDEconCabeza.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\obj\Debug\LDEconCabeza.Form1.resources
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\obj\Debug\LDEconCabeza.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\obj\Debug\LDEconCabeza.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\obj\Debug\LDEconCabeza.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\obj\Debug\LDEconCabeza.exe
+E:\Trabajos\SIS-204 2-2020\LDEconCabeza\LDEconCabeza\obj\Debug\LDEconCabeza.pdb

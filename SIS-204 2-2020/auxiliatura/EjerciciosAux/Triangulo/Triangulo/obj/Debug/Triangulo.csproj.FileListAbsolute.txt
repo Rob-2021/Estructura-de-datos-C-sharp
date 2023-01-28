@@ -1,0 +1,19 @@
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.Cache
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\HeidyWin\Desktop\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\EjerciciosAux\Triangulo\Triangulo\obj\Debug\Triangulo.pdb

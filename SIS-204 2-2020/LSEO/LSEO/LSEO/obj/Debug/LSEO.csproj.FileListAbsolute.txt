@@ -1,0 +1,19 @@
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\bin\Debug\LSEO.exe.config
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\bin\Debug\LSEO.exe
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\bin\Debug\LSEO.pdb
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\obj\Debug\LSEO.csprojResolveAssemblyReference.cache
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\obj\Debug\LSEO.Form1.resources
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\obj\Debug\LSEO.Properties.Resources.resources
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\obj\Debug\LSEO.csproj.GenerateResource.Cache
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\obj\Debug\LSEO.exe
+C:\Users\FX\Desktop\sistemas 2-2020\estructura de datos\proyectos visual studio\LSEO\LSEO\obj\Debug\LSEO.pdb
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\bin\Debug\LSEO.exe.config
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\bin\Debug\LSEO.exe
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\bin\Debug\LSEO.pdb
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\obj\Debug\LSEO.csprojAssemblyReference.cache
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\obj\Debug\LSEO.Form1.resources
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\obj\Debug\LSEO.Properties.Resources.resources
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\obj\Debug\LSEO.csproj.GenerateResource.cache
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\obj\Debug\LSEO.csproj.CoreCompileInputs.cache
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\obj\Debug\LSEO.exe
+C:\Users\ASRAEL\Desktop\LSEO\LSEO\LSEO\obj\Debug\LSEO.pdb

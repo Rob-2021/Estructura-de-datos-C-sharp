@@ -1,0 +1,10 @@
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\bin\Debug\Intercambio.exe.config
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\bin\Debug\Intercambio.exe
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\bin\Debug\Intercambio.pdb
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\obj\Debug\Intercambio.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\obj\Debug\Intercambio.Form1.resources
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\obj\Debug\Intercambio.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\obj\Debug\Intercambio.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\obj\Debug\Intercambio.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\obj\Debug\Intercambio.exe
+E:\Trabajos\SIS-204 2-2020\Intercambio\Intercambio\obj\Debug\Intercambio.pdb

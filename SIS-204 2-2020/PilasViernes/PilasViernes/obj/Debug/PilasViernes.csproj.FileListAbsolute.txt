@@ -1,0 +1,19 @@
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\bin\Debug\PilasViernes.exe.config
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\bin\Debug\PilasViernes.exe
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\bin\Debug\PilasViernes.pdb
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\obj\Debug\PilasViernes.csprojResolveAssemblyReference.cache
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\obj\Debug\PilasViernes.Form1.resources
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\obj\Debug\PilasViernes.Properties.Resources.resources
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\obj\Debug\PilasViernes.csproj.GenerateResource.Cache
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\obj\Debug\PilasViernes.exe
+C:\Users\HeidyWin\Desktop\AuxEstructura\PilasViernes\PilasViernes\obj\Debug\PilasViernes.pdb
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\bin\Debug\PilasViernes.exe.config
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\bin\Debug\PilasViernes.exe
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\bin\Debug\PilasViernes.pdb
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\obj\Debug\PilasViernes.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\obj\Debug\PilasViernes.Form1.resources
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\obj\Debug\PilasViernes.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\obj\Debug\PilasViernes.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\obj\Debug\PilasViernes.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\obj\Debug\PilasViernes.exe
+E:\Trabajos\SIS-204 2-2020\PilasViernes\PilasViernes\obj\Debug\PilasViernes.pdb

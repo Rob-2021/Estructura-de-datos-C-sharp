@@ -1,0 +1,19 @@
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\bin\Debug\ListaEnlazadas2Jueves.exe.config
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\bin\Debug\ListaEnlazadas2Jueves.exe
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\bin\Debug\ListaEnlazadas2Jueves.pdb
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.csprojResolveAssemblyReference.cache
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.Form1.resources
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.Properties.Resources.resources
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.csproj.GenerateResource.Cache
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.exe
+C:\Users\HeidyWin\Desktop\AuxEstructura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.pdb
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\bin\Debug\ListaEnlazadas2Jueves.exe.config
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\bin\Debug\ListaEnlazadas2Jueves.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\bin\Debug\ListaEnlazadas2Jueves.pdb
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.csprojAssemblyReference.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.Form1.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.Properties.Resources.resources
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.csproj.GenerateResource.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.csproj.CoreCompileInputs.cache
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.exe
+E:\Trabajos\SIS-204 2-2020\auxiliatura\ListaEnlazadas2Jueves\ListaEnlazadas2Jueves\obj\Debug\ListaEnlazadas2Jueves.pdb
