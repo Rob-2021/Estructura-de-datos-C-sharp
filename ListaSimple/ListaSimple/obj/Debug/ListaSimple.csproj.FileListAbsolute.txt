@@ -1,0 +1,10 @@
+E:\Web\ListaSimple\ListaSimple\bin\Debug\ListaSimple.exe.config
+E:\Web\ListaSimple\ListaSimple\bin\Debug\ListaSimple.exe
+E:\Web\ListaSimple\ListaSimple\bin\Debug\ListaSimple.pdb
+E:\Web\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csprojAssemblyReference.cache
+E:\Web\ListaSimple\ListaSimple\obj\Debug\ListaSimple.Form1.resources
+E:\Web\ListaSimple\ListaSimple\obj\Debug\ListaSimple.Properties.Resources.resources
+E:\Web\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csproj.GenerateResource.cache
+E:\Web\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csproj.CoreCompileInputs.cache
+E:\Web\ListaSimple\ListaSimple\obj\Debug\ListaSimple.exe
+E:\Web\ListaSimple\ListaSimple\obj\Debug\ListaSimple.pdb

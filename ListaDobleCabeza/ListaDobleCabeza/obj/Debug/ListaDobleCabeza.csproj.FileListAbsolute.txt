@@ -1,0 +1,10 @@
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\bin\Debug\ListaDobleCabeza.exe.config
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\bin\Debug\ListaDobleCabeza.exe
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\bin\Debug\ListaDobleCabeza.pdb
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\obj\Debug\ListaDobleCabeza.csprojAssemblyReference.cache
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\obj\Debug\ListaDobleCabeza.Form1.resources
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\obj\Debug\ListaDobleCabeza.Properties.Resources.resources
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\obj\Debug\ListaDobleCabeza.csproj.GenerateResource.cache
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\obj\Debug\ListaDobleCabeza.csproj.CoreCompileInputs.cache
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\obj\Debug\ListaDobleCabeza.exe
+E:\Web\ListaDobleCabeza\ListaDobleCabeza\obj\Debug\ListaDobleCabeza.pdb

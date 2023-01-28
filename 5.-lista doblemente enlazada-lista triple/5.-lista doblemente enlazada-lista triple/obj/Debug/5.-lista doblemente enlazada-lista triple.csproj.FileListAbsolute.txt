@@ -1,0 +1,10 @@
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\bin\Debug\5.-lista doblemente enlazada-lista triple.exe.config
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\bin\Debug\5.-lista doblemente enlazada-lista triple.exe
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\bin\Debug\5.-lista doblemente enlazada-lista triple.pdb
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\obj\Debug\5.-lista doblemente enlazada-lista triple.csprojAssemblyReference.cache
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\obj\Debug\_5._lista_doblemente_enlazada_lista_triple.Form1.resources
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\obj\Debug\_5._lista_doblemente_enlazada_lista_triple.Properties.Resources.resources
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\obj\Debug\5.-lista doblemente enlazada-lista triple.csproj.GenerateResource.cache
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\obj\Debug\5.-lista doblemente enlazada-lista triple.csproj.CoreCompileInputs.cache
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\obj\Debug\5.-lista doblemente enlazada-lista triple.exe
+E:\Web\5.-lista doblemente enlazada-lista triple\5.-lista doblemente enlazada-lista triple\obj\Debug\5.-lista doblemente enlazada-lista triple.pdb

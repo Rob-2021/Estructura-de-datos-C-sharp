@@ -1,0 +1,10 @@
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\bin\Debug\ListasEnlazadasSDCC.exe.config
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\bin\Debug\ListasEnlazadasSDCC.exe
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\bin\Debug\ListasEnlazadasSDCC.pdb
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\obj\Debug\ListasEnlazadasSDCC.csprojAssemblyReference.cache
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\obj\Debug\ListasEnlazadasSDCC.Form1.resources
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\obj\Debug\ListasEnlazadasSDCC.Properties.Resources.resources
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\obj\Debug\ListasEnlazadasSDCC.csproj.GenerateResource.cache
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\obj\Debug\ListasEnlazadasSDCC.csproj.CoreCompileInputs.cache
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\obj\Debug\ListasEnlazadasSDCC.exe
+E:\Web\ListasEnlazadasSDCC\ListasEnlazadasSDCC\obj\Debug\ListasEnlazadasSDCC.pdb

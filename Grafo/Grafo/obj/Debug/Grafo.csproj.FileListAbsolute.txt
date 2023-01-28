@@ -1,0 +1,10 @@
+E:\Web\Grafo\Grafo\bin\Debug\Grafo.exe.config
+E:\Web\Grafo\Grafo\bin\Debug\Grafo.exe
+E:\Web\Grafo\Grafo\bin\Debug\Grafo.pdb
+E:\Web\Grafo\Grafo\obj\Debug\Grafo.csprojAssemblyReference.cache
+E:\Web\Grafo\Grafo\obj\Debug\Grafo.Form1.resources
+E:\Web\Grafo\Grafo\obj\Debug\Grafo.Properties.Resources.resources
+E:\Web\Grafo\Grafo\obj\Debug\Grafo.csproj.GenerateResource.cache
+E:\Web\Grafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+E:\Web\Grafo\Grafo\obj\Debug\Grafo.exe
+E:\Web\Grafo\Grafo\obj\Debug\Grafo.pdb
